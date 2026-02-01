@@ -227,6 +227,7 @@ Mais do que visualização, o projeto entrega **inteligência operacional**, ali
 ## ✍️ Assinatura Técnica
 
 **Desenvolvimento e Engenharia:**
+
 **Paulo Cesar Euzebio Mariano Filho**
 
 **Cargo:**
