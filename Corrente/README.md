@@ -138,6 +138,3 @@ Com este macro, a IHM passa a atuar como um **módulo inteligente de supervisão
 * ✔️ Lógica industrial robusta e legível
 
 ---
-
-🔧 **Conclusão:**
-Este macro garante **segurança operacional, flexibilidade de engenharia e total domínio da lógica de corrente**, atendendo aos requisitos de aplicações industriais críticas e bem projetadas.
